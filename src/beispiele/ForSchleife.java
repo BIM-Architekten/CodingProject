@@ -24,7 +24,7 @@ public static void main(String args[]) {
       - wird (erstmalig oder erneut) durchlaufen, solange i <= 10 ist
       - zaehlt nach jedem Durchlauf i um 1 hoch */
 
-   for (i=1; i<=67; i++) {
+   for (i=1; i<=68; i++) {
 
     System.out.print("i, i hoch 2, i hoch 3: ");
     System.out.println(i + " " + i*i + " " + i*i*i);
