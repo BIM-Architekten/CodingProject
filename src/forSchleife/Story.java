@@ -6,7 +6,7 @@ class Story {
 	        Robot robin = new Robot();
 	        // robin soll bis 20 zählen. 
 	        // Verändere hier die Zahl, wenn du andere obere Zählgrenzen ausprobieren willst.
-	        robin.countTo(20);
+	        robin.countTo(21);
 	    }
 
 	}
